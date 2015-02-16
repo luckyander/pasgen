@@ -34,6 +34,7 @@ def main():
 			genpass()
 		elif next.upper() == "N":
 			print("\nДякую!")
+			break
 		else:
 			print("Введіть y якщо так чи n для виходу\n")
 
